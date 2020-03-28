@@ -221,6 +221,7 @@
 - https://etherscan.io/charts
 - https://explore.duneanalytics.com/dashboard/contracts-deployed-on-ethereum-per-month
 - https://app.santiment.net/assets/erc20
+- https://explore.duneanalytics.com/dashboard/ethereum-blocks-filled-vs-average-gas-price
 
 ## Ethereum Classic
 - https://dappdirect.net
