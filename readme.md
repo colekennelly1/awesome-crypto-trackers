@@ -229,6 +229,7 @@
 - https://public.tableau.com/profile/alethio.defi
 - https://defi.ai
 - https://defimarketcap.io
+- https://analytics.skew.com/dashboard/decentralized-finance
 
 ## dForce
 - https://defipulse.com/dforce
@@ -454,6 +455,7 @@
 - https://debank.com/insight/stable
 - https://defistats.io/#/stablecoins
 - https://defimarketcap.io/protocol/stablecoin
+- https://analytics.skew.com/dashboard/stable-coins
 
 ## Synthetix
 - https://dashboard.synthetix.io
