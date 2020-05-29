@@ -69,6 +69,7 @@
 - [Raiden](#raiden)
 - [RAY](#ray)
 - [Reddit](#reddit)
+- [Ren](#ren)
 - [Set Protocol](#set-protocol)
 - [Sia](#sia)
 - [Social](#social)
@@ -485,6 +486,10 @@
 
 ## Reddit
 - https://reddit.dappradar.com
+
+## Ren
+- https://mainnet.renproject.io/
+- https://www.tokenterminal.xyz/protocol/Ren
 
 ## Set Protocol
 - https://scout.cool/setprotocol/mainnet
